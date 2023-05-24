@@ -7,7 +7,7 @@ Initial Function()
 
 feaature2()
 {
-  //Sample Code for Feature 2
+  //updated security patch in Feature 2
 }
 
 
